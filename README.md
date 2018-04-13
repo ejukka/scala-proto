@@ -6,5 +6,5 @@ proto app for http4s
 
 - Start software:
     -  sbt run
-
+    - open browser in http://localhost:8080/hello/test
 
